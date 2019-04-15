@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">shesijie0415</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="title_activity_resit">ResitActivity</string>
+</resources>
